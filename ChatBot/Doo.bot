@@ -1,0 +1,63 @@
+{
+    "name": "Doo",
+    "description": "",
+    "services": [
+	{
+      "tenantId": "6c51c659-9d52-41af-81f7-dde16380e813",
+      "subscriptionId": "ae4ac338-b3f1-44a5-a8a5-203be06b9945",
+      "resourceGroup": "SearchBot01",
+      "serviceName": "SearchBot01",
+      "type": "abs",
+      "name": "SearchBot01",
+      "id": "1"
+    },
+    {
+      "connectionString": "+igi4JQQrE7BLFpK8rmbpQ==!VYlBSY5m2rFSoj65UrR+fIVEscTUFf4TDIVg2ir/lOxJKHdN+AbWXzFtg0hLanvDxEbhVJuLXJjVV65p4btAJRbYGvcvAr9NDo526rofhbhXZ6A1AlPrNObGOJFzLvUXcRUsAte/DJJvpCerTKei/VZwDobuOM62Sp23i76BSZYDZtGkRnUfjyY6q6ka0fOsU86wqWWDJtSw+ryYECTg4w==",
+      "tenantId": "6c51c659-9d52-41af-81f7-dde16380e813",
+      "subscriptionId": "ae4ac338-b3f1-44a5-a8a5-203be06b9945",
+      "resourceGroup": "SearchBot01",
+      "serviceName": "searchbot01912a",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3979/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "f0072672-1cf5-4ab9-b82a-f094b09dd933",
+      "appPassword": "gXBxo146JL/KZm01Ap2kcA==!kzm2/MjSHNPksRo+Z7SFkeboHOlgWjFfwgLxI7SmYXo=",
+      "endpoint": "https://searchbot01.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "qw8Jb7oLpUKvvTBeJkXnIg==!bvxkT+gU1k6trtaLl49FkSNWwp7W5Q8lt31Odf3hhTxSZMCIId2v0dkLlNwRQP74",
+      "applicationId": "fd56d459-3389-4a3d-ad10-0c8cffa0f523",
+      "apiKeys": {},
+      "tenantId": "6c51c659-9d52-41af-81f7-dde16380e813",
+      "subscriptionId": "ae4ac338-b3f1-44a5-a8a5-203be06b9945",
+      "resourceGroup": "SearchBot01",
+      "serviceName": "SearchBot0173ze5e",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "6ebad9b0-39af-11e9-ab8b-f5429491188f",
+      "authoringKey": "e545a931182a41bdbe1f18dcd9a848a1",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "http://localhost:3979/api/messages",
+      "id": ""
+    }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null
+}

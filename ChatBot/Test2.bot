@@ -1,0 +1,18 @@
+{
+    "name": "Test2",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "id": "badec010-3845-11e9-ab8b-f5429491188f",
+            "name": "http://localhost:3979/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\smelnyk1\\source\\repos\\ChatBot-masterMyChanges\\ChatBot\\Test2.bot"
+}
