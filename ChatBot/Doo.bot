@@ -53,7 +53,7 @@
       "version": "0.1",
       "region": "westus",
       "type": "luis",
-      "name": "http://localhost:3979/api/messages",
+      "name": "WeatherChatBot",
       "id": ""
     }
     ],

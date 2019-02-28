@@ -142,6 +142,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="Doo.bot" />
     <None Include="Properties\PublishProfiles\ChatBot20170419075800 - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
